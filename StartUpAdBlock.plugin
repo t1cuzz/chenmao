@@ -1,18 +1,18 @@
-^https?:\/\/v\.icbc\.com\.cn\/userfiles\/Resources\/WAP\/advertisement.*$ - reject
-^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/aladdin\/(new)?na\/m\/getLoadingPicture - reject
-^https?:\/\/wmapi\.meituan\.com\/api\/v\d+\/loadInfo\? - reject
-https:\/\/appconf\.mail\.163\.com\/mmad\/get\.do - reject
-^http?:\/\/business\.msstatic\.com\/advertiser\/material - reject
-^https:\/\/m\.ctrip\.com\/restapi\/.+\/json\/tripAds - reject
-^https?:\/\/rich\.kuwo\.cn\/AdService\/kaiping\/.+ - reject
-^https:\/\/dss0\.bdstatic\.com\/.+/tam-ogel\/.+\.jpg - reject
-https://dl-cu-hz.lechange.cn/oms-online/advertisementPush/* - reject
-^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start - reject
-https://fbchina.flipchina.cn/v2/ad/query/* - reject
-https://api.m.jd.com/client.action\?functionId=lite_advertising - reject
-https://zone.guiderank-app.com/guiderank-web/app/ad/listLaunchADByCity.do - reject
-https://ad.12306.cn/* - reject
-https://homefront.qunar.com/front/splash/ad - reject
+^https?:\/\/v\.icbc\.com\.cn\/userfiles\/Resources\/WAP\/advertisement.*$ reject
+^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/aladdin\/(new)?na\/m\/getLoadingPicture reject
+^https?:\/\/wmapi\.meituan\.com\/api\/v\d+\/loadInfo\? reject
+https:\/\/appconf\.mail\.163\.com\/mmad\/get\.do reject
+^http?:\/\/business\.msstatic\.com\/advertiser\/material reject
+^https:\/\/m\.ctrip\.com\/restapi\/.+\/json\/tripAds reject
+^https?:\/\/rich\.kuwo\.cn\/AdService\/kaiping\/.+ reject
+^https:\/\/dss0\.bdstatic\.com\/.+/tam-ogel\/.+\.jpg reject
+https://dl-cu-hz.lechange.cn/oms-online/advertisementPush/* reject
+^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start reject
+https://fbchina.flipchina.cn/v2/ad/query/* reject
+https://api.m.jd.com/client.action\?functionId=lite_advertising reject
+https://zone.guiderank-app.com/guiderank-web/app/ad/listLaunchADByCity.do reject
+https://ad.12306.cn/* reject
+https://homefront.qunar.com/front/splash/ad reject
 
 [MITM]
 hostname =
